@@ -3,7 +3,8 @@ This repository contains a Proof-of-Concept (PoC) script to demonstrate how CAPT
 
 # The Exploit
 reCAPTCHA has an audio challenge option for the visually impaired.  By selecting the "headphones" icon at the bottom of the reCAPTCHA challenge, you can opt to do the audio challenge instead of the visual puzzle.
-![reCAPTCHA]([Dragster.jpg](https://1.bp.blogspot.com/-6LMsicgvSZE/XslybG_kLGI/AAAAAAAACvk/HKyjDqXi-xwRWItrPBRfMgkMBAfc_RVGwCPcBGAYYCw/s400/Screen%2BShot%2B2020-05-23%2Bat%2B1.54.23%2BPM.png)
+
+![reCAPTCHA](https://1.bp.blogspot.com/-6LMsicgvSZE/XslybG_kLGI/AAAAAAAACvk/HKyjDqXi-xwRWItrPBRfMgkMBAfc_RVGwCPcBGAYYCw/s400/Screen%2BShot%2B2020-05-23%2Bat%2B1.54.23%2BPM.png)
 
 This exploit example uses Google's Speech Recognition API to exploit this functionality, by taking the following steps:
 1. Click the "I'm not a robot" checkbox
