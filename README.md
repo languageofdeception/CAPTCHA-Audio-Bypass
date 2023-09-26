@@ -1,5 +1,5 @@
 # DISCLAIMER
-This content has been published in support of the claims made in the book [The Language of Deception: Weaponizing Next Generation AI](https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548/), written by [Justin Hutchens](https://www.linkedin.com/in/justinhutchens/) and published by [Wiley](https://www.wiley.com/). This content is intended exclusively for academic purposes.
+This content has been published in support of the claims made in the book [The Language of Deception: Weaponizing Next Generation AI](https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548/), written by [Justin Hutchens](https://www.linkedin.com/in/justinhutchens/) and published by [Wiley](https://www.wiley.com/). **This content is intended exclusively for academic purposes.**
 
 # CAPTCHA-Audio-Bypass
 This repository contains a Proof-of-Concept (PoC) script to demonstrate how CAPTCHA's can be bypassed by exploiting accessibility features. Specifically, in this case, the script bypasses reCAPTCHAv2, by exploiting alternative puzzles for the visually impaired.
